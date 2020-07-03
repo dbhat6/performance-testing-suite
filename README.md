@@ -25,3 +25,4 @@ This project was created for fun by [Deepak Bhat](https://github.com/dbhat6).
 
 [autocannon](https://github.com/mcollina/autocannon) module & [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) modules provided great inspiration which is used to create this project.
 
+Just a fun, pet project.
