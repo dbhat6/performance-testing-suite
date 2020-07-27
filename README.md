@@ -18,6 +18,9 @@ Navigate to the project's server/client folder and run ```npm install```
 Run server first using ``` npm start ```and then run the client using ```npm start``` to get the entire suite up and running *and* connected to each other through websockets.
 UI is pretty self explanatory which can then be used to run performance. 
 
+Once you enter the details, the UI would be reactive in this manner.
+![Performance Testing Demo](https://media.giphy.com/media/hTIkv8svC4bHdL5ppf/giphy.gif)
+
 
 # Acknowledgements
 
