@@ -22,7 +22,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Install NPM modules
-      run: npm ci
+      run: cd server && npm ci
 
     # Runs a set of commands using the runners shell
     - name: Lint

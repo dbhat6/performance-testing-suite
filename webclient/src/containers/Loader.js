@@ -96,7 +96,7 @@ const Loader = (props) => {
 		console.log('from home');
 		return (
 			<div>
-				<h2>Doughnut Example</h2>
+				<h2>Testing.. Testing.. Testing..</h2>
 				<Doughnut data={doughnutConf} width={100} height={35} />
 			</div>
 		);
