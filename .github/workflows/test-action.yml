@@ -26,4 +26,4 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - name: Lint
-      run: npm run lint
+      run: cd server && npm run lint
